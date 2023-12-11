@@ -40,7 +40,7 @@ export function About(){
                         </h1>
                         <hr />
                         <div class="contact">
-                            <p class="lead pt-0">Im currently learning Machine Learning and MERN fullStack development</p>
+                            <p class="lead pt-0">Im a MERN stack web developer and also a Machine leaning enthusiast.</p>
                             <span class="lead"><i class="bi bi-envelope-at-fill"></i> How to reach me : 
                                 <a href="mailto:steven.ss6229@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
                             </span>
@@ -55,7 +55,7 @@ export function About(){
                             </p>
 
                             <div class="d-block mt-3 btn btn-secondary">
-                                Explore more about me<i class="bi bi-chevron-double-right"></i>
+                                HELLO<i class="bi bi-chevron-double-right"></i>
                             </div>
                         </div>
                     </div>
@@ -120,8 +120,8 @@ export function Upload(){
         <section id="upload" className='mt-5' style={{backgroundColor: "rgb(240, 238, 238)", height:"650px"}}>
             <div class="container-lg">
                 <div class="text-center">
-                    <h2><i class="bi bi-stars"></i>LeetCode Solution</h2>
-                    <p class="lead text-muted">Solutions which i have uploaded in leetcode</p>
+                    <h2><i class="bi bi-stars"></i>MY POSTS AND UPLOADS</h2>
+                    <p class="lead text-muted">Posts and details which i have uploaded in linkedIn and other social media(may not be upto date)</p>
                 </div>
 
                 <div class="row justify-content-center">
@@ -129,37 +129,73 @@ export function Upload(){
                         <div class="list-group">
                             <div class="list-group-item py-3">
                                 <div class="d-flex justify-content-between">
-                                    <h5 class="mb-1">PROBLEM 1
+                                    <h5 class="mb-1">MERN internship
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                     </h5>
-                                    <small>Aug 27, 2023</small>
+                                    <small>Dec 11, 2023</small>
                                 </div>
-                                <p class="mb-1">this is a problem in leet code which i have solved.this problem is to find the palindrome number.</p>
+                                <p class="mb-1">I have completed my internship in ethnus as MERN stack developer.</p>
                                 <div class="d-flex justify-content-between">
-                                    <small>Difficulty : Easy</small>
-                                    <a href="https://leetcode.com/submissions/detail/1056168870/" target="_blank" class="btn btn-outline-success active">View the Code</a>
+                                    <small></small>
+                                    <a href="https://www.linkedin.com/posts/steven-sodadasi-669687251_mernstack-webdevelopment-ethnusexperience-activity-7140000282968485890-1pU7?utm_source=share&utm_medium=member_desktop" target="_blank" class="btn btn-outline-success active">View</a>
                                 </div>
                             </div>
 
                             <div class="list-group-item py-3">
                                 <div class="d-flex justify-content-between">
-                                    <h5 class="mb-1">PROBLEM 2
+                                    <h5 class="mb-1">School management system - MERN
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                     </h5>
-                                    <small>Sep 07, 2023</small>
+                                    <small>Dec 3, 2023</small>
                                 </div>
-                                <p class="mb-1">this is teh solution for a probelm to find the sum of two numbers in leetcode</p>
+                                <p class="mb-1">A website which i have developed using MERN for school managment and efficient working.</p>
                                 <div class="d-flex justify-content-between">
-                                    <small>Difficulty : Easy</small>
-                                    <a href="https://leetcode.com/submissions/detail/1055273653/" target="_blank" class="btn btn-outline-success active">View the Code</a>
+                                    <small></small>
+                                    <a href="https://www.linkedin.com/posts/steven-sodadasi-669687251_mernstack-fullstackdevelopment-webdevelopment-activity-7136065353503162368-3J8g?utm_source=share&utm_medium=member_desktop" target="_blank" class="btn btn-outline-success active">View</a>
+                                </div>
+                            </div>
+
+                            <div class="list-group-item py-3">
+                                <div class="d-flex justify-content-between">
+                                    <h5 class="mb-1">NPTEL course
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </h5>
+                                    <small>Nov 23, 2023</small>
+                                </div>
+                                <p class="mb-1">Completion of an NPTEL course on educational leadership which builds leadership skills and different educational ideas.</p>
+                                <div class="d-flex justify-content-between">
+                                    <small></small>
+                                    <a href="https://www.linkedin.com/posts/steven-sodadasi-669687251_educationalleadership-nptel-continuouslearning-activity-7135297954751418369-Mg2N?utm_source=share&utm_medium=member_desktop" target="_blank" class="btn btn-outline-success active">View</a>
+                                </div>
+                            </div>
+
+                            <div class="list-group-item py-3">
+                                <div class="d-flex justify-content-between">
+                                    <h5 class="mb-1">RFID tollgate project
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </h5>
+                                    <small>Sept 23, 2022</small>
+                                </div>
+                                <p class="mb-1">Developed an RFID module based tollgate system which makes hassle free tolls and efficient traffic flow.</p>
+                                <div class="d-flex justify-content-between">
+                                    <small></small>
+                                    <a href="https://www.linkedin.com/posts/steven-sodadasi-669687251_technology-project-sensors-activity-7078771390488719360-3xPq?utm_source=share&utm_medium=member_desktop" target="_blank" class="btn btn-outline-success active">View</a>
                                 </div>
                             </div>
                         </div>
@@ -247,7 +283,7 @@ export function Project(){
             <div class="container-md">
                 <div class="text-center">
                     <h2><i class="bi bi-person-workspace"></i> Main Project Works</h2>
-                    <p class="lead text-muted">A quick glance at my small projects</p>
+                    <p class="lead text-muted">A quick glance at my projects(may not be upto date)</p>
                 </div>
 
                 <div class="row my-5 g-5 justify-content-around align-items-center">
@@ -289,6 +325,24 @@ export function Project(){
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="heading-1">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#project-1" aria-expanded="true" aria-controls="project-1">
+                                        SCHOOL MANAGEMENT SYSTEM
+                                    </button>
+                                </h2>
+                                <div id="project-1" class="accordion-collapse collpase show" aria-labelledby="heading-1" data-bs-parent="#projects_list">
+                                    <div class="accordion-body">
+                                        <p>
+                                            The School managment system is a website which delivers easy access to communications and monitor efficiently making a great way to educate. 
+                                        </p>
+                                        <a href="https://collegemansys.vercel.app/" class="btn btn-outline-danger me-2" >App</a>
+                                        <a href="https://github.com/Steven-ss6229/frontend-mern.git" target="_blank" class="btn btn-outline-danger" >Code</a>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
